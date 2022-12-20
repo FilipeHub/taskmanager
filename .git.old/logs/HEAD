@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 e21a9af179b96ac6c273e3931522aa83a3f659c3 FilipeCavalcante <filipencavalte@gmail.com> 1671499647 -0300	commit (initial): first commit
+e21a9af179b96ac6c273e3931522aa83a3f659c3 0000000000000000000000000000000000000000 FilipeCavalcante <filipencavalte@gmail.com> 1671499655 -0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 e21a9af179b96ac6c273e3931522aa83a3f659c3 FilipeCavalcante <filipencavalte@gmail.com> 1671499655 -0300	Branch: renamed refs/heads/master to refs/heads/main
+e21a9af179b96ac6c273e3931522aa83a3f659c3 ffedd59d3a378b794a8bd3f06a48d720cd999531 FilipeCavalcante <filipencavalte@gmail.com> 1671500526 -0300	commit: adding files to deploy via github pages
